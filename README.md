@@ -1,7 +1,7 @@
 ## Introduction
 Hello! I'm ***Waqar***, a student at FAST NUCES Karachi Campus. I have a strong interest in programming and problem-solving. Below is a brief introduction about me:
 
-![My Picture]()
+![My Picture](https://avatars.githubusercontent.com/u/138406571?v=4)
 
 ### About Me:
 - 🎓 **Degree**: First year student of Data Science
