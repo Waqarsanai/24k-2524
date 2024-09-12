@@ -4,11 +4,11 @@ Hello! I'm ***Waqar***, a student at FAST NUCES Karachi Campus. I have a strong 
 ![My Picture](https://avatars.githubusercontent.com/u/138406571?v=4)
 
 ### About Me:
-- 🎓 **Degree**: First year student of Data Science
+- 🎓 **Degree**: First-year student of Data Science
 - 🖥️ **Skills**: C, HTML/CSS, JavaScript
 - 🌱 **Currently Learning**: Advanced Algorithms and Data Structures
 - 💼 **Career Interests**: Software Development, Data Science, Web Development
 - 📧 **Contact**: [waqarsanai58@gmail.com] 
 
 ## Repository Content
-This repository contains algorithms and pseudocode for various basic operations
+This repository contains LAB tasks of C language and Flowcharts 
